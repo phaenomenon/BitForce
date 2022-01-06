@@ -3,7 +3,7 @@ A bitcoin private keys brute-forcing tool.
 If you have an average computer, his will take decades to find a private key with balance.
 ## Run
 Make sure you have Python3 + pip installed.
-* install cryptos
+* Install cryptos
 `pip install cryptos`
 * Run BitForce
 `python main.py`
